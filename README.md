@@ -2,7 +2,23 @@
 
 Фанатская локализация и инструмент переводов для игры
 **The No Jumpscare Show** (V1.4, Unity).
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b04c9473-61d5-43f3-a238-80bb61e31c39" />
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b04c9473-61d5-43f3-a238-80bb61e31c39" width="400" alt="image 1" />
+      <br />
+      <sub><b>Русский</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ce9d2819-84cd-4d42-a720-693fe4378aa7" width="400" alt="image 2" />
+      <br />
+      <sub><b>Украинский</b></sub>
+    </td>
+  </tr>
+</table>
+
+
 
 Переводится весь видимый текст: главное меню, настройки, пауза, HUD
 (задачи, подсказки клавиш), заставки, экраны смерти и диалоги. 
